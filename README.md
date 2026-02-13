@@ -9,7 +9,7 @@
 2. Files
 - customer_analysis.ipynb → Data cleaning & feature engineering
 - sql_queries.sql → All business SQL queries
-- customer_dashboard.pbix → Power BI dashboard
+- Customer Behavior Analysis Dashboard.pbix → Power BI dashboard
 
 3. Project Workflow
 CSV → Python → MySQL → SQL → Power BI
